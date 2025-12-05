@@ -1,0 +1,33 @@
+.heading{
+  background-color: skyblue;
+  color: black;
+  font-weight: bold;
+}
+.tabel{
+  border-collapse: collapse;
+  width: 500px;
+  margin-top: 20px;
+}
+.tabel th,
+.tabel td{
+  border: 1px solid back;
+  padding: 8px;
+  text-align: center;
+  background-color: aqua;
+  text-decoration: overline;
+
+}
+.container{
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  background-color: pink;
+  color: black;
+}
+.button{
+  background-color: aquamarine;
+}
+.buttons{
+  background-color: blanchedalmond;
+}
